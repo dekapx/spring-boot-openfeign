@@ -27,7 +27,7 @@ public class CreditScoreController {
     @GetMapping(INFO_URL)
     public String getInfo() {
         log.info("CreditScore Service API...");
-        return "CreditScore Service API";
+        return "CreditScore Service API v1.0";
     }
 
 }
