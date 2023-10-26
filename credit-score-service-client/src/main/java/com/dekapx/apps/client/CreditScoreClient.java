@@ -1,6 +1,5 @@
 package com.dekapx.apps.client;
 
-import com.dekapx.apps.config.CreditScoreFeignClientConfig;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 
